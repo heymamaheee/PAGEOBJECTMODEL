@@ -1,0 +1,11 @@
+
+ <suite name="mawa heyyy" verbose="10">
+
+    <test name="contact 1" preserve-order="true">
+        <classes>
+            <class name="com.testcases.Tc_01"/>
+
+
+         </classes>
+    </test>
+</suite>
